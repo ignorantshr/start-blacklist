@@ -12,3 +12,5 @@ Options:
     -F      The separator between the output names, default '\r\n'
     -h      Print this and exit
 ```
+
+因执行需要 python 环境，不方便使用，[移步至 go 版本](https://github.com/ignorantshr/split-list)。
